@@ -1,0 +1,13 @@
+body{
+    box-sizing: border-box;
+    color: red;
+    text-align: center;
+    background-color: bisque;
+}
+
+img{
+    border-radius: 45%;
+    max-width: 45vw;
+    min-width: 44vw;
+}
+
